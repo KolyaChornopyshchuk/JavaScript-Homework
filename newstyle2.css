@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+    .type1 {
+        width: 800px;
+        height: 600px;
+        background: black;
+        padding: 5px;
+
+}
+    .type2 {
+        height: 150px;
+        background: orange;
+}
+    .type3 {
+
+        width: 200px;
+        height: 300px;
+        background: red;
+        float: left;
+}
+    .type4 {
+
+        width: 200px;
+        height: 300px;
+        background: green;
+        float: left;
+}
+    .type5 {
+
+        width: 200px;
+        height: 300px;
+        background: blue;
+        float: left;
+}
+    .type6 {
+
+        width: 200px;
+        height: 300px;
+        background: black;
+        float: left;
+}
+    .type7 {
+        height: 150px;
+        background: orange;
+
+}
+.typeUN {
+    height: 300px;
+}
