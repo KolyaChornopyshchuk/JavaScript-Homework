@@ -44,8 +44,6 @@ body {
     .type7 {
         height: 150px;
         background: orange;
+        clear: both;
 
-}
-.typeUN {
-    height: 300px;
 }
